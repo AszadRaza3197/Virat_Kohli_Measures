@@ -6,7 +6,7 @@ This project is a **Power BI interactive dashboard** analyzing the cricket caree
 
 ## 🖼️ Dashboard Preview
 
-![Virat Kohli Dashboard](<img width="999" height="556" alt="Image" src="https://github.com/user-attachments/assets/41b34308-6995-49c7-bb5e-c14b0494809a" />)
+![Virat Kohli Dashboard]([<img width="999" height="556" alt="Image" src="https://github.com/user-attachments/assets/41b34308-6995-49c7-bb5e-c14b0494809a" />])
 
 > 💡 Place your screenshot in a folder named `assets/` inside your repo.
 
